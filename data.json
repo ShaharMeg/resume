@@ -1,0 +1,273 @@
+{
+    "name": "Shahar Megido",
+    "job": "Full Stack Developer",
+    "summary": "Front-End Engineer skilled in React and Angular development, with a proven track record of owning complex features and defining Backend requirements and frontend architecture. Works effectively within teams, while also demonstrating the ability to learn independently and adapt quickly. A highly energetic and driven professional.",
+    "pictureSrc": "./images/oded.jpg",
+    "sections": [
+        {
+            "name":"Education",
+            "items":[
+              {
+                "name":"Be The Bank,",
+                "type":"timelineObject",
+                "points": [
+                  "Front-End Engineer with expertise in React, Angular, React hooks, Vit, and React Query.",
+                  "Leadership of complex projects development, including defining Backend requirements and designing frontend architecture.",
+                  "Consistently ensuring code quality, performance optimization, and adherence to best practices.",
+                  "Passionate about staying up-to-date with the latest technologies and trends in the front-end development landscape."
+                ],
+                "dateRange": {
+                  "start": "2022-08-01T22:00:00.000Z"
+                },
+                "companyImg":"./images/be the bank.png"
+              },
+               {
+                "name":"Aman group",
+                "type":"timelineObject",
+                "points": [
+                  "Development of projects for companies from scratch",
+                  "Utillizing Angular typescript and Vanilla javascript",
+                  "Helps characterize and build the system",
+                  "Adding features to the system independently",
+                  "Utillizing umbraco system",
+                  "Defintion of user requirementsband UX/UI design"
+                ],
+                "dateRange": {
+                  "start": "2021-06-01T22:00:00.000Z",
+                  "end": "2022-08-01T22:00:00.000Z"
+                },
+                "companyImg":"data:image/png;base64,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"
+              }
+            ]
+          },
+      {
+        "name":"Experience",
+        "items":[
+          {
+            "name":"Be The Bank,",
+            "type":"timelineObject",
+            "points": [
+              "Front-End Engineer with expertise in React, Angular, React hooks, Vit, and React Query.",
+              "Leadership of complex projects development, including defining Backend requirements and designing frontend architecture.",
+              "Consistently ensuring code quality, performance optimization, and adherence to best practices.",
+              "Passionate about staying up-to-date with the latest technologies and trends in the front-end development landscape."
+            ],
+            "dateRange": {
+              "start": "2022-08-01T22:00:00.000Z"
+            },
+            "companyImg":"./images/be the bank.png"
+          },
+           {
+            "name":"Aman group",
+            "type":"timelineObject",
+            "points": [
+              "Development of projects for companies from scratch",
+              "Utillizing Angular typescript and Vanilla javascript",
+              "Helps characterize and build the system",
+              "Adding features to the system independently",
+              "Utillizing umbraco system",
+              "Defintion of user requirementsband UX/UI design"
+            ],
+            "dateRange": {
+              "start": "2021-06-01T22:00:00.000Z",
+              "end": "2022-08-01T22:00:00.000Z"
+            },
+            "companyImg":"data:image/png;base64,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"
+          }
+        ]
+      },
+      {
+        "name": "Education",
+        "items": [
+          {
+            "type": "timelineObject",
+            "name": "Coding Academy",
+            "dateRange": {
+              "start": "2020-12-31T22:00:00.000Z",
+              "end": "2021-03-31T21:00:00.000Z"
+            },
+            "description":"This is a course where I learned the core of JavaScript, web development and Front-End frameworks such as React, Vue, etc.\nHere’s a link to the",
+            "webLinkName":"course website",
+            "webLink":"https://www.coding-academy.org/index.php?src=GoogleAds&cmp=Mar2020&adId=428485611586&adGrpId=100520531700&extClicked=&network=g&adPos=&keyword=coding%20academy&gclid=Cj0KCQjwp86EBhD7ARIsAFkgakjyRMAP2ouKzrLZoLn8YfzxG6P4S2kjjM4h9cK4LLaF34p0THp9IOMaAlB5EALw_wcB"
+          },
+          {
+            "type": "timelineObject",
+            "name": "Shoham Highschool",
+            "dateRange": {
+              "start": "2017-06-30T21:00:00.000Z",
+              "end": "2015-08-30T21:00:00.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Skills",
+        "items": [
+          {
+            "type": "skill",
+            "name": "HTML5",
+            "src":""
+          },
+          {
+            "type": "skill",
+            "name": "CSS",
+            "src":""
+          },
+          {
+            "type": "skill",
+            "name": "Javascript",
+            "src":""
+          },
+          {
+            "type": "skill",
+            "name": "ES6",
+            "src":""
+          },
+          {
+            "type": "skill",
+            "name": "TypeScript",
+            "src":""
+          },
+          {
+            "type": "skill",
+            "name": "React",
+            "src":""
+          },
+          {
+            "type": "skill",
+            "name": "Vue",
+            "src":""
+          },
+          {
+            "type": "skill",
+            "name": "Node.js",
+            "src":""
+          },
+          {
+            "type": "skill",
+            "name": "SASS",
+            "src":""
+          },
+          {
+            "type": "skill",
+            "name": "Socket.io",
+            "src":""
+          },
+          {
+            "type": "skill",
+            "name": "Express js",
+            "src":""
+          },
+          {
+            "type": "skill",
+            "name": "Github",
+            "src":""
+          },
+          {
+            "type":"skill",
+            "name":"Angular",
+            "src":""
+          }
+  
+        ]
+      },
+      {
+        "name": "Projects at home",
+        "items": [
+          {
+            "type": "regular",
+            "name": "Fixerr",
+            "link": "https://fixerr.herokuapp.com/#/",
+            "description":"Fixerr is an app where freelancers can sell their services to everyone, This application is a Fiverr clone and was implemented with Vue,Vuex,Sass,NodeJS and MongoDB technologies.",
+            "tags": ["Vue", "Express.js", "MongoDB", "Socket.io"]
+          },
+          {
+            "type": "regular",
+            "name": "Chat",
+            "link": "https://odedron100.github.io/chat/",
+            "description":"Chat mechanism that can be added on top of websites, in which clients can get support from an agent (if available). On the other side, there's an agent system in which each agent can manage conversations with multiple clients.",
+            "tags": ["React", "Firebase"]
+          },
+          {
+            "type": "regular",
+            "name": "Mr Bitcoin",
+            "link": "https://odedron100.github.io/mr-bitcoin/",
+            "description":"By a bitcoin API, you can use this website to convert your own money to its 'bitcoin value' and then transfer it to contacts. You can also view your transfer history. Of course, no actual transactions are included.",
+            "tags": ["React", "Express.js"]
+          },
+          {
+            "type": "regular",
+            "name": "Meme generator",
+            "link": "https://odedron100.github.io/Meme-generator/",
+            "description":"Create your own meme, with default pictures, or by uploading yours, and add texts and designs. On this website, I also use canvas.",
+            "tags": ["Javascript"]
+          }
+        ]
+      },
+      {
+        "name": "Languages",
+        "items":[
+          {
+            "type":"regular",
+            "name":"Hebrew",
+            "description": "Native Speaker"
+          },
+          {
+            "type":"regular",
+            "name":"English",
+            "description": "Full Professional Proficiency"
+          }
+        ]
+      },
+      {
+        "name": "Hobbies",
+        "items":[
+          {
+            "type":"regular",
+            "name":"Soccer",
+            "description":"I like watching football games and have been part of a professional football team since the age of 7."
+          },
+          {
+            "type":"regular",
+            "name":"Video gaming",
+            "description":"Computer gaming, Sony Playstation, etc."
+          }
+        ]
+      },
+      {
+        "name": "Contact Me",
+        "items":[
+            {
+              "type":"regular",
+              "name":"Adderes",
+              "description":"Shoham, Israel",
+              "icon":"fas fa-map-marker-alt"
+            },
+            {
+              "type":"regular",
+              "name":"Phone",
+              "description":"+972 547671632",
+              "icon":"fas fa-phone"
+            },
+            {
+              "type":"regular",
+              "name":"Email",
+              "description":"odedron84@gmail.com",
+              "icon":"fas fa-envelope"
+            },
+            {
+              "type":"regular",
+              "name":"Linkedin",
+              "description":"https://www.linkedin.com/in/oded-ron-28692b89/",
+              "icon":"fab fa-linkedin"
+            },
+            {
+              "type":"regular",
+              "name":"Github",
+              "description":"https://github.com/odedron100",
+              "icon":"fab fa-github"
+            }
+        ]
+      }
+    ]
+  }
